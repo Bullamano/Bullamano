@@ -55,6 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactJS" width="40" height="40"/>
 </a>
 
+<a href="developer.mozilla.org/en-us/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="css" width="40" height="40"/>
+</a>
+
 <a href="developer.mozilla.org/en-us/docs/Web/CSS" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
 </a>
