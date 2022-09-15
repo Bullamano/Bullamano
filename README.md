@@ -3,7 +3,7 @@
 <h3 align="center">You can call me Allan, or by my nicknames: Bullamano or Paradox.</h3>
 
 <div style="display: inline-block"><br>
-  <img align="right" height="175" src="./BullamanoCartoon.jpg" alt="Bullamano-cartoon-image">
+  <img align="right" height="175" src="./BullamanoCartoon.png" alt="Bullamano-cartoon-image">
   <p align="center">I'm a senior tech analyst working as a full stack developer (although my main language nowadays is C#).</p>
   <p align="center">I have a degree in control and automation engineering, currently studying at FIAP for an MBA and love learning.</p>
   <p align="center">And I also love good stories (so movies, games, books, etc.) and useless knowledge (obscure facts and tidbits). Or as my grandpa would say:</p>
