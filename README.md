@@ -2,7 +2,7 @@
 <h3 align="center">I'm Allan, a nerdy dev from Brazil. Nice to meet you!</h3>
 <h3 align="center">You can call me Allan, or by my nicknames: Bullamano or Paradox.</h3>
 
-<div style="display: inline-block"><br>
+<div style="display: inline-block"><br/>
   <img align="right" height="175" src="./BullamanoCartoon.png" alt="Bullamano-cartoon-image">
   <p align="center">I'm a senior tech analyst working as a full stack developer (although my main language nowadays is C#).</p>
   <p align="center">I have a degree in control and automation engineering, currently studying at FIAP for an MBA and love learning.</p>
@@ -50,6 +50,8 @@
 <a href="https://developer.mozilla.org/en-us/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </a>
+  
+<br/>
 
 <a href="reactjs.org" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="reactJS" width="40" height="40"/>
