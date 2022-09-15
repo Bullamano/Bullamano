@@ -2,10 +2,15 @@
 <h3 align="center">I'm Allan, a nerdy dev from Brazil. Nice to meet you!</h3>
 <h3 align="center">You can call me Allan, or by my nicknames: Bullamano ou Paradox.</h3>
 
-<p align="center">I'm a senior tech analyst working as a full stack developer (although my main language nowadays is C#).</p>
-<p align="center">I have a degree in control and automation engineering, currently studying at FIAP for an MBA and love learning.</p>
-<p align="center">And I also love good stories (so movies, games, books, etc.) and useless knowledge (obscure facts and tidbits). Or as my grandpa would say:</p>
-<p align="center"><i><b>"No knowledge is useless... you just haven't found a use for it yet."<b/></i> - A wise old man who I loved very much.</p>
+<div style="display: inline_block">
+  <img align="right" style="border-radius:50px;" height="175" src="./BullamanoCartoon.jpg" alt="Bullamano-cartoon-image">
+  <p align="center">I'm a senior tech analyst working as a full stack developer (although my main language nowadays is C#).</p>
+  <p align="center">I have a degree in control and automation engineering, currently studying at FIAP for an MBA and love learning.</p>
+  <p align="center">And I also love good stories (so movies, games, books, etc.) and useless knowledge (obscure facts and tidbits). Or as my grandpa would say:</p>
+  <p align="center"><i><b>"No knowledge is useless... you just haven't found a use for it yet."<b/></i> - A wise old man who I loved very much.</p>
+</div>
+
+  ##
 
 <div align="center">
   <h3 align="center">Connect with me:</h3>
@@ -65,3 +70,11 @@
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40"/>
 </a>
+
+  ##
+  
+<h3 align="center">Thanks fo reading and see you around!</h3>
+
+<div align="center">
+  <img src="https://i.imgur.com/NKBbuvB.gif" alt="See you space cowboy" />
+</div>
