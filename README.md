@@ -79,7 +79,7 @@
 
   ##
   
-<h3 align="center">Thanks fo reading and see you around!</h3>
+<h3 align="center">Thanks for reading and see you around!</h3>
 
 <div align="center">
   <img src="https://i.imgur.com/NKBbuvB.gif" alt="See you space cowboy" />
