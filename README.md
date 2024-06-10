@@ -15,7 +15,7 @@
 <div align="center">
   <h3 align="center">Connect with me:</h3>
   <a href="https://github.com/Bullamano" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="github" width="40" height="40" />
+    <img src="https://octodex.github.com/images/original.png" alt="github" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/lamano-allan/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
